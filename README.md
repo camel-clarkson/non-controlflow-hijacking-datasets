@@ -16,5 +16,5 @@ for exploit in exploits:
     for j in range(5):
       X_test, Y_test = load_csv('{}/{}/subset_{}/test_set.csv'.format(version, exploit, j)
       
-      results = model.test(X_test, Y_tes)
+      results = model.test(X_test, Y_test)
 ```
