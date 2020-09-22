@@ -30,14 +30,13 @@ for exploit in exploits:
 
 ## Citation
 If you are interested in utilizing this dataset for your research. Please cite following paper:
-`
-@inproceedings{torres2019detecting,
-  title={Detecting Non-Control-Flow Hijacking Attacks Using Contextual Execution Information},
-  author={Torres, Gildo and Yang, Zhiliu and Blasingame, Zander and Bruska, James and Liu, Chen},
-  booktitle={Proceedings of the 8th International Workshop on Hardware and Architectural Support for Security and Privacy},
-  pages={1--8},
-  year={2019}
-}
-`
+
+	@inproceedings{torres2019detecting,
+	 title={Detecting Non-Control-Flow Hijacking Attacks Using Contextual Execution Information},
+	 author={Torres, Gildo and Yang, Zhiliu and Blasingame, Zander and Bruska, James and Liu, Chen},
+	 booktitle={Proceedings of the 8th International Workshop on Hardware and Architectural Support for Security and Privacy},
+	 pages={1--8},
+	 year={2019}
+	}
 
 
